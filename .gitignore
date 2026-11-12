@@ -3,3 +3,8 @@ __pycache__/
 *.db
 logs/
 
+
+# Secrets
+.env
+.env.*
+!.env.example
